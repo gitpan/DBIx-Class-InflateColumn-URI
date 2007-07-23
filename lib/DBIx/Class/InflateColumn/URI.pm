@@ -37,7 +37,7 @@ use strict;
 use warnings;
 use URI;
 
-our $VERSION = '0.01001';
+our $VERSION = '0.01002';
 
 =head2 Methods
 
